@@ -12,7 +12,8 @@
 .mdl-layout__container {
   color: #fff;
   text-align: center;
-  background-image: url("../images/x1.jpg");
+  background-image: url("../images/sfondo_lispa.jpg");
+  background-size: cover;
 }
 .title.mdl-card__title {
   color: #fff;
@@ -60,7 +61,10 @@
     width: 430px;
   }
 }
-
+.menu_sx {
+  padding-left: 25px !important;
+  text-align: left;
+}
 
 /* project-name */
 .project-name {
